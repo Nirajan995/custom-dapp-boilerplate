@@ -5,3 +5,8 @@
 -- Setup custom mocha test runner that can test solidity code
 
 -- Setup a deploy script to compile and deploy our contract
+
+#### to move to inbox folder: cd inbox
+
+#### to test this code: npm run test 
+
