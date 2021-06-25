@@ -10,3 +10,5 @@
 
 #### to test this code: npm run test 
 
+#### to deploy this code in rinkeby test network: npm deploy.js 
+
